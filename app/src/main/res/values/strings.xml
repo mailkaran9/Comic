@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Comic</string>
+
+    <string name="hello_world">SUPERHERO-COMICS</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="image_ids">
+        <item>@drawable/spiderman</item>
+        <item>@drawable/hulk</item>
+        <item>@drawable/avengers</item>
+        <item>@drawable/storm</item>
+        <item>@drawable/ironman</item>
+        <item>@drawable/blackwidow</item>
+        <item>@drawable/captain</item>
+        <item>@drawable/fantasticfour</item>
+        <item>@drawable/guardiansofgalaxy</item>
+        <item>@drawable/shield</item>
+        <item>@drawable/thor</item>
+        <item>@drawable/xmen</item>
+
+    </string-array>
+</resources>
